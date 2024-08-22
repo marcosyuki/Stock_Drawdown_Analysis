@@ -15,3 +15,5 @@ This project involves analyzing the drawdown of a specified stock over a given p
 - **Data Analysis:** Drawdown calculation, cumulative maximum, period analysis
 - **Financial Metrics:** Drawdown analysis, peak-to-trough measurement
 - **Data Visualization:** Time series plotting, highlighting significant periods
+
+<img width="589" alt="image" src="https://github.com/user-attachments/assets/b1a67e28-4f6f-42ad-9aa9-7c485a89bbd2">
